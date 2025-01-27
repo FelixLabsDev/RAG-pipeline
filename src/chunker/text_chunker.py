@@ -1,7 +1,7 @@
 from typing import List, Dict, Any, Optional
 import logging
 from langchain.text_splitter import CharacterTextSplitter
-from core.document import Document
+from src.core.document import Document
 
 logger = logging.getLogger(__name__)
 
