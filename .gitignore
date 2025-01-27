@@ -174,3 +174,4 @@ chroma_db/
 RAGvenv/
 src/__pycache__
 src/test/
+src/config/
